@@ -7,6 +7,7 @@
 #Kubernetes
 
 
+go to link: https://drive.google.com/drive/folders/1vveHrzRemeDkwHGK3u3dSKU7glij2oI1?usp=sharing
 
 
 1. Unzip the folder with tar command on linux or with WinRar on windows present in src folder
