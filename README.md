@@ -1,8 +1,15 @@
 # EMS
+**The seThe service that use is :**
+#ReactJS
+#NodeJ
+#MySQL
+#Docker
+#Kubernetes
 
 
 
-1. Unzip the folder with tar command on linux or with WinRar on windows
+
+1. Unzip the folder with tar command on linux or with WinRar on windows present in src folder
         tar xzvf <filename>.tar.gz
 
 2. To run the project you must have
