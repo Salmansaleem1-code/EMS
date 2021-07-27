@@ -1,5 +1,5 @@
 # EMS
-**The seThe service that use is :**
+**The service that use is :**
 #ReactJS
 #NodeJ
 #MySQL
@@ -20,7 +20,7 @@ go to link: https://drive.google.com/drive/folders/1vveHrzRemeDkwHGK3u3dSKU7glij
 3. To deploy the project run the deployment.sh file
         ./deployment.sh
 
-4. The app will also be running the following url
+4. The app was running the following url
         http://ec2-107-21-155-165.compute-1.amazonaws.com:3000/
 
 5. The default username is admin@domain.com
