@@ -1,1 +1,28 @@
 # EMS
+
+
+
+1. Unzip the folder with tar command on linux or with WinRar on windows
+        tar xzvf <filename>.tar.gz
+
+2. To run the project you must have
+        a. Docker installed on the system
+        b. Kubernetes installed on the system
+
+3. To deploy the project run the deployment.sh file
+        ./deployment.sh
+
+4. The app will also be running the following url
+        http://ec2-107-21-155-165.compute-1.amazonaws.com:3000/
+
+5. The default username is admin@domain.com
+
+6. The default password is admin
+
+7. You will be promted to the main screen
+
+8. You can add, update and delete the entries
+
+9. You can find node js code in sallu folder
+
+10. The yaml files of kubernetes will be present in the extracted folder
